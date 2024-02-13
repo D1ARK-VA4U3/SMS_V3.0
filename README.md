@@ -1,7 +1,7 @@
 <h2 align="left">HI 👋! MY NAME IS ARIF UDDIN AND I'M A  DEVELOPER FROM BANGLADESH</h2>
 <h2>
  <br> INSTALL THIS COMMAND
-<br>  -----------------------------
+<br>  ----------------------------
 <br>pkg update
 <br>pkg upgrade -y
 <br>pkg install git -y 
@@ -10,14 +10,14 @@
 <br>cd SMS_V3.0
 <br>ls
 <br>python arif_sms.py
-<br>  -----------------------------
+<br>  ----------------------------
 
 
 
 
   
 </h2>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
