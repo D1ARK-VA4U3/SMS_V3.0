@@ -9,7 +9,7 @@
 <br>git clone https://github.com/D1ARK-VA4U3/SMS_V3.0
 <br>cd SMS_V3.0
 <br>ls
-<br>python arif_sms.py
+<br>python DARK-VAU.py
 <br>  ----------------------------
 
 
